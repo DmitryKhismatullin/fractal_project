@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this linear framework core or reference the 2N+1 mathematical model in your research, please cite it as below."
+authors:
+  - family-names: "Khismatullin"
+    given-names: "Dmitry"
+    orcid: "https://orcid.org/0009-0003-6952-8719"
+title: "Project 2N+1: Linear O(N) Computational Framework & Autonomous Four-Element System"
+version: "1.0.0"
+date-released: "2026-10-27"
+url: "https://github.com/DmitryKhismatullin/fractal_project"
+repository-code: "https://github.com/DmitryKhismatullin/fractal_project.git"
+license: "MIT"
